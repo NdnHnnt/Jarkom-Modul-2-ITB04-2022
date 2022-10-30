@@ -42,18 +42,6 @@ Pengerjaan Soal Shift Komunikasi Data dan Jaringan Komputer Modul 1 oleh ITB04
     * [Jawaban Soal 7](#jawaban-soal-7)
     * [Penyelesaian dan Dokumentasi Soal 7](#penyelesaian-dan-dokumentasi-soal-7)
     * [Kendala Soal 7](#kendala-soal-7)
-* [Soal 8](#soal-8)
-    * [Jawaban Soal 8](#jawaban-soal-8)
-    * [Penyelesaian dan Dokumentasi Soal 8](#penyelesaian-dan-dokumentasi-soal-8)
-    * [Kendala Soal 8](#kendala-soal-8)
-* [Soal 9](#soal-9)
-    * [Jawaban Soal 9](#jawaban-soal-9)
-    * [Penyelesaian dan Dokumentasi Soal 9](#penyelesaian-dan-dokumentasi-soal-9)
-    * [Kendala Soal 9](#kendala-soal-9)
-* [Soal 10](#soal-10)
-    * [Jawaban Soal 10](#jawaban-soal-10)
-    * [Penyelesaian dan Dokumentasi Soal 10](#penyelesaian-dan-dokumentasi-soal-10)
-    * [Kendala Soal 10](#kendala-soal-10)
 
 ## Sumber Soal dan Resource Praktikum Komunikasi Data dan Jaringan Komputer Modul 2 Tahun 2022
 Adapun untuk soal dan _resource_ yang digunakan dalam praktikum 2
