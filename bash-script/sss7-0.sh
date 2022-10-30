@@ -1,0 +1,1 @@
+ping -c 3 strix.operation.wise.itb04.com
